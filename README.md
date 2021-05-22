@@ -5,7 +5,8 @@ This project uses the training dataset to train a ML model to predict the surviv
 * train.csv: To train the data
 * test.csv: To test the data and predict the outcome
 * final.csv: Final outcome to be submitted
-* Titanic.ipynb: Jupyter notebook for the code
+* Titanic.ipynb: Jupyter notebook for predicting survival
+* Titanic_Unsupervised.ipynb: Predicting survival using unsupervised machine learning (K-means)
 
 ## Dataset
 * PassengerId: Id of the passenger
